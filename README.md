@@ -2,7 +2,7 @@
 
 Proof of concept for **Building a Self-Hosted Monitoring Stack with Uptime Kuma and Grafana**.
 
-Live demo: https://uptime-kuma.poc.ardotconsulting.com
+Live demo: https://uptime-kuma.poc.ardotconsulting.com/status/kuma
 
 Blog post: https://www.ardotconsulting.com/blog/self-hosted-monitoring-stack-uptime-kuma-grafana-replace-statuspage-and-datadog/
 
