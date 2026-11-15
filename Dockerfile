@@ -1,3 +1,3 @@
-FROM louislam/uptime-kuma:1
+FROM louislam/uptime-kuma:2
 
 EXPOSE 3001
